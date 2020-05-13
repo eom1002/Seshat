@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/CMakeFiles/xtensor-populate"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/CMakeFiles/xtensor-populate.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/CMakeFiles/xtensor-populate-complete.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-install.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-download.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-update.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-patch.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-configure.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-build.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtensor-subbuild/xtensor-populate-prefix/src/xtensor-populate-stamp/xtensor-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xtensor-populate"
+		],
+		"name" : "xtensor-populate"
+	}
+}

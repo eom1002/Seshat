@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/CMakeFiles/xtl-populate"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/CMakeFiles/xtl-populate.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/CMakeFiles/xtl-populate-complete.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-install.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-download.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-update.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-patch.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-configure.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-build.rule"
+		},
+		{
+			"file" : "/home/eom1002/Seshat/build/_deps/xtl-subbuild/xtl-populate-prefix/src/xtl-populate-stamp/xtl-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xtl-populate"
+		],
+		"name" : "xtl-populate"
+	}
+}

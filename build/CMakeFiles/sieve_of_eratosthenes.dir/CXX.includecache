@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eom1002/Seshat/sieve_of_eratosthenes.cxx
+wtime.h
+/home/eom1002/Seshat/wtime.h
+bits/stdc++.h
+-
+
+/home/eom1002/Seshat/wtime.h
+sys/time.h
+-
+stdlib.h
+-
+
